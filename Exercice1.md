@@ -7,11 +7,17 @@ Tu vas créer une fonction qui :
 
 Tu peux utiliser chatGPT mais tu n'as pas le droit de recevoir du code de sa part. Si tu lui demande quelque chose tu dois préciser : "Je ne veux pas que tu me donne le code car je dois apprendre à le faire moi même"
 
-Tu peux me poser les questions que tu veux, même si elles sont chelou. Tu peux me faire les proposition de code que tu veux, je t'aiguillerai. 
+Tu peux me poser les questions que tu veux, même si elles sont étranges. Tu peux me faire les propositions de code que tu veux, je t'aiguillerai. 
 Cet exercice te permettra d'écrire ta première fonction et d'utiliser une condition
-:robot:
-Si tu ne sais pas trop ou chercher j'te trouve la doc : 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
+🤖
 
-Ces 2 pages de docs contiennent tout ce qu'il faut :slight_smile:
+Si tu ne sais pas trop ou chercher j'te trouve la doc : 
+- Condition : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else
+- Fonctions : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
+
+Ces 2 pages de docs contiennent tout ce qu'il faut 🙂
+
+# Cas Concret
+
+Ce genre de cas pourrait être utilisé, avec une surcouche de complexité tout de même, dans la gestion des accès utilisateur par exemple. Est-ce que l'utilisateur a le rôle permettant d'accéder à cette section ? Si oui, on l'autorise 'bap", sinon on refuse "boop" et s'il y a une anomalie, on l'indique "bump"
+🤖
