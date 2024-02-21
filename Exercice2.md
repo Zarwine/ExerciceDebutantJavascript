@@ -12,11 +12,14 @@ L'objectif est de faire en sorte que la fonction retourne un tableau multidimens
 ```js
 { '0': [0, 0, 0, 0, 0], '1': [1, 1, 1, 1], 'autres': ['clef à molette','chouffleur','sandwish'] }
 ```
-
-Voici une doc sur les tableau : https://developer.mozilla.org/fr/docs/Learn/JavaScript/First_steps/Arrays
-Et une autre sur les foreach : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
+- Les tableaux : https://developer.mozilla.org/fr/docs/Learn/JavaScript/First_steps/Arrays
+- Les foreach : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
 
 Je suppose que ça va être galère alors n'hésite pas m'envoyer une première version et on va la retravailler petit à petit.
-Tu peux utiliser http://www.codepen.io pour partager le code :slight_smile:
+Tu peux utiliser http://www.codepen.io pour partager le code 🤖
 
 Good luck !!
+
+# Cas Concret
+
+Cette fonction peut servir à ranger proprement du contenu. Imaginons que nous voulons faire des fiches pour des film avec le Titre, le casting et synopsis et que notre partenaire nous envoie une TONNE d'information avec toutes les séances en france au cinéma, l'age des acteurs, le réalisateur, des photo etc.. Cette fonction nous permettrait d'ordonner correctement le contenu reçu et de le formater selon nos besoin pour le réutiliser ensuite. 
