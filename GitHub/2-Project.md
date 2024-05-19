@@ -37,5 +37,5 @@ Je donne un autre exemple en image. Ce n'est pas un projet GitHub mais un jeu vi
 
 ### Les choses à vendre ici, ce sont tes compétences, ta valeur !
 
-## Autres exemple : 
+## Autres exemples : 
 - [NodeJS - Project](https://github.com/nodejs/node)
