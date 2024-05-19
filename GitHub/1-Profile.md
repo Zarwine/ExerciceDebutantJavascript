@@ -48,8 +48,3 @@ Et quelques GitHub qui regroupent des listes de GitHub (Des listes dans des list
 > Un des gros intérets de GitHub est qu'on peut voir le code source de tous les fichiers !
 > 
 > Donc si quelque chose vous intrigue, cliquez sur le nom du de l'utilisateur juste en haut de la fenètre qui affiche le readme : "[Zarwine](https://github.com/Zarwine/Zarwine)/README.md", puis dans la liste de fichier cliquez sur "[README.md](https://github.com/Zarwine/Zarwine/blob/master/README.md)" et enfin, selectionnez l'onglet "[code](https://github.com/Zarwine/Zarwine/blob/master/README.md?plain=1)"
-
-
-## 4. Les projets phare
-[En cours d'édition..]
-- [exemple](https://github.com/RyuuCreator/KNT_Sync)
